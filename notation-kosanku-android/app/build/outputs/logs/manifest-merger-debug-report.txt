@@ -1,0 +1,1046 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfb50afdbdc68859ae48fa93a47c2a72/AndroidManifest.xml:2:1-6:12
+MERGED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:2:1-252:12
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:2:1-25:12
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:2:1-17:12
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:2:1-19:12
+MERGED from [com.midtrans:analytics:1.3.7-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/analytics-1.3.7-SANDBOX.aar/bb27a7fa0b21368d45e9e2b82b38f3a4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/0898839dc4c6e62f78140e5aeb2948f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/775f317f250e3cb318792293b20ce701/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/5d7025609b42dbf451ad8d8501e8c6b3/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/1bd9f8cbe52531ab6dfb052e268b90ad/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:16:1-23:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:17:1-56:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/56fb8442d6fae539b577ea9665eda5b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/53aa474b2d5c13dbf4ab7a78d57b699b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/cfa8ed61f4689e3aa0559fb4ccfec886/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/6070a6bb6a12e479d055860a6c4a2f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /home/edo/.gradle/caches/transforms-1/files-1.1/swipe-layout-1.0.14.aar/e96ee04b40f6de02b92cdc3f8edede6f/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/d12b0d35d0dd9722686c5c11b7a04e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/02bc553459f8ef24b1cfb82368c15100/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/86f745964b1df3c232da02637b4403a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8da54220d4c11ce5a29744746f86bac0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/c4ff50b442428cf14b7b4d59529ce21b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/215c379eca46617f60847c9795bfbd67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/cb754c9979fe42f3efd629a0de734b41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c36d19af8f16d518ee1ede71225acd6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d1362d4409b376795adc3981d91031cc/AndroidManifest.xml:2:1-6:12
+MERGED from [me.saket:better-link-movement-method:1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/better-link-movement-method-1.2.aar/2c98d5053b8c35da4bfcd1703cccf194/AndroidManifest.xml:2:1-12:12
+MERGED from [com.midtrans:issuetracker:1.11.0] /home/edo/.gradle/caches/transforms-1/files-1.1/issuetracker-1.11.0.aar/ff5b1efda397e318f2d7188f15262034/AndroidManifest.xml:2:1-11:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/4b588c0058173bfa32534a201967bd5d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/bd3f449561a96bf246aefa0dd81e5445/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/602f98896aee4f94497c237f6f698f34/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/9821f2f949bd1463a44a7d58b7a25883/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/1cfff4a8a679920fb3428c7f7bdb2bb7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /home/edo/.gradle/caches/transforms-1/files-1.1/secure-preferences-v0.1.6.aar/4c7f8398ec14a5f9fd44ca91a3155cd9/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/12295a19515e4af54170f900a67ba508/AndroidManifest.xml:2:1-6:12
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/edo/.gradle/caches/transforms-1/files-1.1/aes-crypto-0.0.5.aar/831ecdc7c303315ad9258205d4e7560f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/05c7552280f3418f675b11e52b6fa6e5/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d6849aaa0c802b397a5aa2f2dbc14b82/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+	package
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:12:5-67
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:20:5-66
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:7:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:11:5-81
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:10:5-60:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfb50afdbdc68859ae48fa93a47c2a72/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfb50afdbdc68859ae48fa93a47c2a72/AndroidManifest.xml:5:5-20
+MERGED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:13:5-250:19
+MERGED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:13:5-250:19
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:13:5-23:19
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:13:5-23:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:11:5-15:19
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:analytics:1.3.7-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/analytics-1.3.7-SANDBOX.aar/bb27a7fa0b21368d45e9e2b82b38f3a4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.midtrans:analytics:1.3.7-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/analytics-1.3.7-SANDBOX.aar/bb27a7fa0b21368d45e9e2b82b38f3a4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/5d7025609b42dbf451ad8d8501e8c6b3/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/5d7025609b42dbf451ad8d8501e8c6b3/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/1bd9f8cbe52531ab6dfb052e268b90ad/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/1bd9f8cbe52531ab6dfb052e268b90ad/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:19:5-21:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:46:5-54:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/cfa8ed61f4689e3aa0559fb4ccfec886/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/cfa8ed61f4689e3aa0559fb4ccfec886/AndroidManifest.xml:9:5-20
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /home/edo/.gradle/caches/transforms-1/files-1.1/swipe-layout-1.0.14.aar/e96ee04b40f6de02b92cdc3f8edede6f/AndroidManifest.xml:12:5-14:47
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /home/edo/.gradle/caches/transforms-1/files-1.1/swipe-layout-1.0.14.aar/e96ee04b40f6de02b92cdc3f8edede6f/AndroidManifest.xml:12:5-14:47
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d1362d4409b376795adc3981d91031cc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d1362d4409b376795adc3981d91031cc/AndroidManifest.xml:5:5-20
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:13:5-14:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/4b588c0058173bfa32534a201967bd5d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/4b588c0058173bfa32534a201967bd5d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/bd3f449561a96bf246aefa0dd81e5445/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/bd3f449561a96bf246aefa0dd81e5445/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/602f98896aee4f94497c237f6f698f34/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/602f98896aee4f94497c237f6f698f34/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/9821f2f949bd1463a44a7d58b7a25883/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/9821f2f949bd1463a44a7d58b7a25883/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/1cfff4a8a679920fb3428c7f7bdb2bb7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/1cfff4a8a679920fb3428c7f7bdb2bb7/AndroidManifest.xml:5:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:13:5-14:19
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /home/edo/.gradle/caches/transforms-1/files-1.1/secure-preferences-v0.1.6.aar/4c7f8398ec14a5f9fd44ca91a3155cd9/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /home/edo/.gradle/caches/transforms-1/files-1.1/secure-preferences-v0.1.6.aar/4c7f8398ec14a5f9fd44ca91a3155cd9/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/12295a19515e4af54170f900a67ba508/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/12295a19515e4af54170f900a67ba508/AndroidManifest.xml:5:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/edo/.gradle/caches/transforms-1/files-1.1/aes-crypto-0.0.5.aar/831ecdc7c303315ad9258205d4e7560f/AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/edo/.gradle/caches/transforms-1/files-1.1/aes-crypto-0.0.5.aar/831ecdc7c303315ad9258205d4e7560f/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/05c7552280f3418f675b11e52b6fa6e5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/05c7552280f3418f675b11e52b6fa6e5/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:11:9-43
+	android:roundIcon
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:14:9-36
+		REJECTED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:12:9-35
+		REJECTED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:15:9-36
+		REJECTED from [com.midtrans:analytics:1.3.7-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/analytics-1.3.7-SANDBOX.aar/bb27a7fa0b21368d45e9e2b82b38f3a4/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:15:9-52
+	tools:replace
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:15:9-44
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:16:9-19:49
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:47:9-53:63
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:47:9-53:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:49:13-45
+	android:screenOrientation
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:18:13-49
+		REJECTED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:50:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:52:13-54
+	tools:replace
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:19:13-46
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:17:13-74
+activity#id.notation.kosanku.MainActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:20:9-23:59
+	android:label
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:21:13-41
+activity#id.notation.kosanku.LoginActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:25:9-27:59
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:26:13-42
+activity#id.notation.kosanku.SplashActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:29:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:34:27-74
+activity#id.notation.kosanku.RegisterActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:37:19-51
+activity#id.notation.kosanku.indekos.FormIndekosActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:38:9-39:46
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:38:19-62
+activity#id.notation.kosanku.indekos.IndekosDetailActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:40:9-41:46
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:40:19-64
+activity#id.notation.kosanku.kamarkos.FormKamarkosActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:42:9-43:46
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:42:19-64
+activity#id.notation.kosanku.kamarkos.KamarKosDetailActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:44:9-45:46
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:44:19-66
+activity#id.notation.kosanku.kamarkos.KamarKosQRActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:46:9-49:20
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:46:19-62
+activity#id.notation.kosanku.PaymentActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:50:9-54:20
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:52:13-53
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:51:13-44
+activity#id.notation.kosanku.kamarkos.KamarKosScanQRActivity
+ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:57:9-59:20
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:57:19-66
+uses-sdk
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfb50afdbdc68859ae48fa93a47c2a72/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/bfb50afdbdc68859ae48fa93a47c2a72/AndroidManifest.xml:4:5-43
+MERGED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:8:5-11:115
+MERGED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:8:5-11:115
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:7:5-9:41
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /home/edo/.gradle/caches/transforms-1/files-1.1/smsverifycatcher-0.3.1.aar/4062f8981818a1cd41c53639cb7647ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.3.7-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/analytics-1.3.7-SANDBOX.aar/bb27a7fa0b21368d45e9e2b82b38f3a4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.3.7-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/analytics-1.3.7-SANDBOX.aar/bb27a7fa0b21368d45e9e2b82b38f3a4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/0898839dc4c6e62f78140e5aeb2948f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/0898839dc4c6e62f78140e5aeb2948f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/775f317f250e3cb318792293b20ce701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/775f317f250e3cb318792293b20ce701/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/5d7025609b42dbf451ad8d8501e8c6b3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/5d7025609b42dbf451ad8d8501e8c6b3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/1bd9f8cbe52531ab6dfb052e268b90ad/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/1bd9f8cbe52531ab6dfb052e268b90ad/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:17:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/56fb8442d6fae539b577ea9665eda5b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/56fb8442d6fae539b577ea9665eda5b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/53aa474b2d5c13dbf4ab7a78d57b699b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/53aa474b2d5c13dbf4ab7a78d57b699b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/cfa8ed61f4689e3aa0559fb4ccfec886/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/cfa8ed61f4689e3aa0559fb4ccfec886/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/6070a6bb6a12e479d055860a6c4a2f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/6070a6bb6a12e479d055860a6c4a2f2b/AndroidManifest.xml:20:5-44
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /home/edo/.gradle/caches/transforms-1/files-1.1/swipe-layout-1.0.14.aar/e96ee04b40f6de02b92cdc3f8edede6f/AndroidManifest.xml:8:5-10:41
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /home/edo/.gradle/caches/transforms-1/files-1.1/swipe-layout-1.0.14.aar/e96ee04b40f6de02b92cdc3f8edede6f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/d12b0d35d0dd9722686c5c11b7a04e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/d12b0d35d0dd9722686c5c11b7a04e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/02bc553459f8ef24b1cfb82368c15100/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/02bc553459f8ef24b1cfb82368c15100/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/86f745964b1df3c232da02637b4403a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/86f745964b1df3c232da02637b4403a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8da54220d4c11ce5a29744746f86bac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8da54220d4c11ce5a29744746f86bac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/c4ff50b442428cf14b7b4d59529ce21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/c4ff50b442428cf14b7b4d59529ce21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/215c379eca46617f60847c9795bfbd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/215c379eca46617f60847c9795bfbd67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/cb754c9979fe42f3efd629a0de734b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/cb754c9979fe42f3efd629a0de734b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c36d19af8f16d518ee1ede71225acd6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c36d19af8f16d518ee1ede71225acd6f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d1362d4409b376795adc3981d91031cc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/d1362d4409b376795adc3981d91031cc/AndroidManifest.xml:4:5-43
+MERGED from [me.saket:better-link-movement-method:1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/better-link-movement-method-1.2.aar/2c98d5053b8c35da4bfcd1703cccf194/AndroidManifest.xml:8:5-10:41
+MERGED from [me.saket:better-link-movement-method:1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/better-link-movement-method-1.2.aar/2c98d5053b8c35da4bfcd1703cccf194/AndroidManifest.xml:8:5-10:41
+MERGED from [com.midtrans:issuetracker:1.11.0] /home/edo/.gradle/caches/transforms-1/files-1.1/issuetracker-1.11.0.aar/ff5b1efda397e318f2d7188f15262034/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.11.0] /home/edo/.gradle/caches/transforms-1/files-1.1/issuetracker-1.11.0.aar/ff5b1efda397e318f2d7188f15262034/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/6d6b0a79558f75a5531d2a3500c92cd7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/4b588c0058173bfa32534a201967bd5d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/4b588c0058173bfa32534a201967bd5d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/bd3f449561a96bf246aefa0dd81e5445/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/bd3f449561a96bf246aefa0dd81e5445/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/602f98896aee4f94497c237f6f698f34/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/602f98896aee4f94497c237f6f698f34/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/9821f2f949bd1463a44a7d58b7a25883/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/9821f2f949bd1463a44a7d58b7a25883/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/1cfff4a8a679920fb3428c7f7bdb2bb7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/1cfff4a8a679920fb3428c7f7bdb2bb7/AndroidManifest.xml:4:5-43
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/edo/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/ef11d94d53b27bd96ea3a321a972f082/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /home/edo/.gradle/caches/transforms-1/files-1.1/secure-preferences-v0.1.6.aar/4c7f8398ec14a5f9fd44ca91a3155cd9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /home/edo/.gradle/caches/transforms-1/files-1.1/secure-preferences-v0.1.6.aar/4c7f8398ec14a5f9fd44ca91a3155cd9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/12295a19515e4af54170f900a67ba508/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/12295a19515e4af54170f900a67ba508/AndroidManifest.xml:4:5-43
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/edo/.gradle/caches/transforms-1/files-1.1/aes-crypto-0.0.5.aar/831ecdc7c303315ad9258205d4e7560f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:aes-crypto:0.0.5] /home/edo/.gradle/caches/transforms-1/files-1.1/aes-crypto-0.0.5.aar/831ecdc7c303315ad9258205d4e7560f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/05c7552280f3418f675b11e52b6fa6e5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/05c7552280f3418f675b11e52b6fa6e5/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d6849aaa0c802b397a5aa2f2dbc14b82/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d6849aaa0c802b397a5aa2f2dbc14b82/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:11:9-112
+	android:targetSdkVersion
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml
+activity#com.midtrans.sdk.uikit.activities.UserDetailsActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:16:9-19:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:18:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:17:13-81
+activity#com.midtrans.sdk.uikit.activities.PaymentMethodsActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:20:9-23:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:22:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:21:13-84
+activity#com.midtrans.sdk.uikit.activities.BankTransferActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:24:9-27:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:27:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:25:13-82
+activity#com.midtrans.sdk.uikit.activities.BankTransferInstructionActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:28:9-31:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:31:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:29:13-93
+activity#com.midtrans.sdk.uikit.activities.PaymentWebActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:32:9-35:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:35:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:33:13-80
+activity#com.midtrans.sdk.uikit.activities.MandiriClickPayActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:36:9-40:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:39:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:40:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:38:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:37:13-85
+activity#com.midtrans.sdk.uikit.views.mandiri_clickpay.MandiriClickPayActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:41:9-45:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:45:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:42:13-97
+activity#com.midtrans.sdk.uikit.activities.EpayBriActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:47:13-77
+activity#com.midtrans.sdk.uikit.views.bri_epay.BriEpayPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:50:9-53:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:53:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:51:13-88
+activity#com.midtrans.sdk.uikit.activities.CIMBClickPayActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:56:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:55:13-82
+activity#com.midtrans.sdk.uikit.views.cimb_click.CimbClickPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:58:9-61:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:61:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:59:13-92
+activity#com.midtrans.sdk.uikit.activities.MandiriECashActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:63:13-82
+activity#com.midtrans.sdk.uikit.views.mandiri_ecash.MandiriEcashPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:66:9-69:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:69:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:68:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:67:13-98
+activity#com.midtrans.sdk.uikit.activities.IndosatDompetkuActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:70:9-74:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:73:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:74:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:72:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:71:13-85
+activity#com.midtrans.sdk.uikit.views.indosat_dompetku.IndosatDompetkuPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:75:9-79:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:78:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:79:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:76:13-104
+activity#com.midtrans.sdk.uikit.activities.IndomaretActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:80:9-83:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:82:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:81:13-79
+activity#com.midtrans.sdk.uikit.views.indomaret.payment.IndomaretPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:84:9-87:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:87:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:86:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:85:13-99
+activity#com.midtrans.sdk.uikit.views.indomaret.status.IndomaretStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:88:9-91:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:91:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:90:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:89:13-97
+activity#com.midtrans.sdk.uikit.activities.IndomaretInstructionActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:92:9-95:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:95:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:94:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:93:13-90
+activity#com.midtrans.sdk.uikit.activities.MandiriClickPayInstructionActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:96:9-99:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:99:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:98:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:97:13-96
+activity#com.midtrans.sdk.uikit.activities.SelectBankTransferActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:100:9-103:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:103:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:102:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:101:13-88
+activity#com.midtrans.sdk.uikit.activities.BCAKlikPayActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:104:9-107:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:107:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:106:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:105:13-80
+activity#com.midtrans.sdk.uikit.activities.KlikBCAActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:108:9-111:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:111:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:110:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:109:13-77
+activity#com.midtrans.sdk.uikit.activities.TelkomselCashActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:112:9-116:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:115:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:116:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:114:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:113:13-83
+activity#com.midtrans.sdk.uikit.views.telkomsel_cash.TelkomselCashPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:117:9-121:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:120:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:121:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:119:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:118:13-100
+activity#com.midtrans.sdk.uikit.activities.XLTunaiActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:122:9-125:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:125:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:124:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:123:13-77
+activity#com.midtrans.sdk.uikit.views.xl_tunai.payment.XlTunaiPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:126:9-129:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:129:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:128:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:127:13-96
+activity#com.midtrans.sdk.uikit.views.xl_tunai.status.XlTunaiStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:130:9-133:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:133:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:132:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:131:13-94
+activity#com.midtrans.sdk.uikit.views.xl_tunai.XlTunaiInstructionActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:134:9-137:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:137:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:136:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:135:13-92
+activity#com.midtrans.sdk.uikit.activities.KiosonActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:138:9-141:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:141:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:140:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:139:13-76
+activity#com.midtrans.sdk.uikit.views.kioson.payment.KiosonPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:142:9-145:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:145:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:144:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:143:13-93
+activity#com.midtrans.sdk.uikit.activities.KiosonInstructionActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:146:9-149:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:149:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:148:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:147:13-87
+activity#com.midtrans.sdk.uikit.views.kioson.status.KiosonStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:150:9-153:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:153:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:152:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:151:13-91
+activity#com.midtrans.sdk.uikit.activities.GCIActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:154:9-158:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:157:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:158:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:156:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:155:13-73
+activity#com.midtrans.sdk.uikit.views.gci.GciPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:159:9-163:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:162:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:163:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:161:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:160:13-79
+activity#com.midtrans.sdk.uikit.activities.KlikBCAInstructionActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:164:9-167:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:167:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:166:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:165:13-88
+activity#com.midtrans.sdk.uikit.views.creditcard.details.CreditCardDetailsActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:168:9-172:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:171:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:172:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:170:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:169:13-101
+activity#com.midtrans.sdk.uikit.views.status.PaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:173:9-176:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:176:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:175:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:174:13-85
+activity#com.midtrans.sdk.uikit.views.creditcard.saved.SavedCreditCardActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:177:9-180:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:180:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:179:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:178:13-97
+activity#com.midtrans.sdk.uikit.views.creditcard.bankpoints.BankPointsActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:181:9-185:76
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:184:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:185:13-73
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:183:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:182:13-97
+activity#com.midtrans.sdk.uikit.views.banktransfer.list.BankTransferListActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:186:9-189:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:189:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:188:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:187:13-99
+activity#com.midtrans.sdk.uikit.views.banktransfer.payment.BankTransferPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:190:9-194:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:193:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:194:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:192:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:191:13-105
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:195:9-198:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:198:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:197:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:196:13-100
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaOtherBankPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:199:9-202:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:202:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:201:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:200:13-109
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.MandiriBillStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:203:9-206:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:206:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:205:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:204:13-102
+activity#com.midtrans.sdk.uikit.views.creditcard.register.CardRegistrationActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:207:9-211:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:210:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:211:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:209:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:208:13-101
+activity#com.midtrans.sdk.uikit.views.gopay.payment.GoPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:212:9-215:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:215:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:214:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:213:13-91
+activity#com.midtrans.sdk.uikit.views.gopay.status.GoPayStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:216:9-219:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:219:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:218:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:217:13-89
+activity#com.midtrans.sdk.uikit.views.danamon_online.DanamonOnlineActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:220:9-223:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:223:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:222:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:221:13-93
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.payment.KlikBcaPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:224:9-228:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:227:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:228:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:226:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:225:13-99
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.status.KlikBcaStatusActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:229:9-232:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:232:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:231:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:230:13-97
+activity#com.midtrans.sdk.uikit.views.bca_klikpay.BcaKlikPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:233:9-236:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:236:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:235:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:234:13-94
+activity#com.midtrans.sdk.uikit.views.webview.WebViewPaymentActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:237:9-240:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:240:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:239:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:238:13-87
+activity#com.midtrans.sdk.uikit.views.creditcard.tnc.TermsAndConditionsActivity
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:241:9-244:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:244:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:243:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:242:13-98
+service#com.midtrans.raygun.RaygunPostService
+ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:246:9-249:52
+	android:process
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:249:13-49
+	android:exported
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:248:13-37
+	android:name
+		ADDED from [com.midtrans:uikit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/AndroidManifest.xml:247:13-65
+provider#android.support.v4.content.FileProvider
+ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:16:13-60
+	android:exported
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:15:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:19:13-21:58
+	android:resource
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:21:17-55
+	android:name
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/c2a7d09b3ff7ba81457899ce39fb29b1/AndroidManifest.xml:20:17-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/edo/Workspace/Projects/notation-kosanku-android/app/src/main/AndroidManifest.xml:2:1-62:12 reason: gun0912.tedbottompicker requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.midtrans:corekit:1.17.1-SANDBOX] /home/edo/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/76c31cd63b106a55e039a205519ba9bc/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/1c93c5a899087872f7e8ab4e893ed82f/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/661b4ba99f69489d0353e9a1daaf4988/AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/701bae5a321f225d2b9b05971df5f82a/AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:25:17-71
+permission#id.notation.kosanku.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:27:22-76
+uses-permission#id.notation.kosanku.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:31:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:32:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:id.notation.kosanku
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:34:27-58
+category#id.notation.kosanku
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:40:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/ff77d1991402799533111a48edbdb963/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/0a6629551d7e556b9e8ec833ee6c2c84/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/7ec4869d1f14563abc89af89ddc557ad/AndroidManifest.xml:20:20-65
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] /home/edo/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.6.0.aar/b94ba8a54e5e35fa25e36ee095b49640/AndroidManifest.xml:43:9-45

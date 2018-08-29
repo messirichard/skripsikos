@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "962142254330",
+    "firebase_url": "https://notation-kosan.firebaseio.com",
+    "project_id": "notation-kosan",
+    "storage_bucket": "notation-kosan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962142254330:android:8a6d5f0d0d627e64",
+        "android_client_info": {
+          "package_name": "id.notation.kosanku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962142254330-cdi1877tkm7ighj9plq24u3bjofk4180.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.notation.kosanku",
+            "certificate_hash": "7e3cf70cc20849ccdcf6bdecc7cb3271362e3f55"
+          }
+        },
+        {
+          "client_id": "962142254330-sfenoeaqjj5ertk8eidpqd2netf1pv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7k6cuWgzB8fD5QoDp9LjdW_hC7g5iW1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962142254330-sfenoeaqjj5ertk8eidpqd2netf1pv81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.midtrans:corekit-1.17.1-SANDBOX">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/b5f6773702537ed1eabdb60fb9feef4d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/corekit-1.17.1-SANDBOX.aar/b5f6773702537ed1eabdb60fb9feef4d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

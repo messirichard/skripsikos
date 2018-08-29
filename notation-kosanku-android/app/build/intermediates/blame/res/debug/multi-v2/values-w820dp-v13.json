@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/edo/Workspace/Projects/notation-kosanku-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/edo/.gradle/caches/transforms-1/files-1.1/uikit-1.17.1-SANDBOX.aar/72a7af333b39799597ab5bdde8970ed3/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
